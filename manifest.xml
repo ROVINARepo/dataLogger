@@ -1,0 +1,20 @@
+<package>
+  <description brief="dataLogger">
+
+     data_logger
+
+  </description>
+  <author>La Sapienza - University of Rome</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/dataLogger</url>
+  <depend package="sensor_msgs"/>
+  <depend package="cv_bridge"/>
+  <depend package="message_filters"/>
+  <depend package="pcl"/>
+  <depend package="tf"/>
+  <depend package="geometry_msgs"/>
+
+</package>
+
+

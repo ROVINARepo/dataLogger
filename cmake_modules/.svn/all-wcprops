@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/software/!svn/ver/12217/trunk/DIS-ros/data_logger/cmake_modules
+END
+G2OConfig.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/12217/trunk/DIS-ros/data_logger/cmake_modules/G2OConfig.cmake
+END
+FindCholmod.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/12217/trunk/DIS-ros/data_logger/cmake_modules/FindCholmod.cmake
+END
+FindEigen.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/12217/trunk/DIS-ros/data_logger/cmake_modules/FindEigen.cmake
+END
+FindG2O.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/software/!svn/ver/12217/trunk/DIS-ros/data_logger/cmake_modules/FindG2O.cmake
+END
+FindSuiteSparse.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/12217/trunk/DIS-ros/data_logger/cmake_modules/FindSuiteSparse.cmake
+END
+FindEigen3.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/12217/trunk/DIS-ros/data_logger/cmake_modules/FindEigen3.cmake
+END
